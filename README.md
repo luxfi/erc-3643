@@ -1,5 +1,17 @@
 # T-REX : Token for Regulated EXchanges
 
+## Lux Fork
+
+This is a Lux Industries fork of the canonical upstream:
+- **Upstream**: https://github.com/ERC-3643/ERC-3643
+- **Pinned commit**: `b6c5fabf`
+- **Pinned tag**: `4.1.3`
+- **License**: GPL-3.0 (preserved from upstream — see `LICENSE.md`, provenance in `SOURCE.md`)
+- **Lux extensions**: NONE (verbatim parity with upstream).
+- **Tag policy**: track upstream semver verbatim. Divergence (if ever required) signaled by next-minor bump, NOT prerelease suffixes.
+
+---
+
 ![GitHub](https://img.shields.io/github/license/ERC-3643/ERC-3643?color=green)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ERC-3643/ERC-3643)
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/ERC-3643/ERC-3643/publish-release.yml)
